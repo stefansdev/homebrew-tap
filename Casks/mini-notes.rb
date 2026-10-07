@@ -1,6 +1,6 @@
 cask "mini-notes" do
-  version "1.2.0"
-  sha256 "368274a26296f4fa16b9f35ad45519b8be02549832f2a199b788555e16612a58"
+  version "1.3.0"
+  sha256 "066fec74adb972e6404822e6195341a196a72f7f606e7dd4238e701a9d1c139b"
 
   url "https://github.com/stefansdev/mini-notes/releases/download/v#{version}/MiniNotes.zip"
   name "Mini Notes"
